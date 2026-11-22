@@ -1,0 +1,11 @@
+# Python 3.12. torch se instala aparte en su versión para CPU (ver README.md)
+torch==2.15.0
+pykan==0.2.8
+numpy==2.5.4
+pandas==3.1.1
+scipy==1.18.1
+matplotlib==3.11.2
+scikit-learn==1.9.1
+sympy==1.14.0
+tqdm==4.70.1
+pyyaml==6.0.3

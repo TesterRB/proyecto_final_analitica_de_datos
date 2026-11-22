@@ -1,0 +1,18 @@
+# Salidas que generan los scripts
+Datos_preparados/
+Figuras_proyecto/
+Resultados_python/
+Sensibilidad/
+
+# Entornos y temporales
+.venv/
+__pycache__/
+*.pyc
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+~$*
+._*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+Datos de la clase (los de la plataforma), con sus nombres originales:
+
+  P_1930_1979.xlsx, P_1980_1990.csv y P_1991_2003.csv   lluvia diaria de las estaciones de la CVC
+  CVC_Wheather_Stations_Long_Lat.csv y .dta              coordenadas de las estaciones
+  CatalogoEstacionesElevacion.xlsx                       catálogo de elevación de las estaciones
+  ImagenesSatelitePentadal/                              péntadas satelitales (R usa las de 1981 a 2003)
+
+Opcional: estaciones_reservadas.csv (columna station_id), si el docente tiene una lista de estaciones reservadas.
+
+Orden de ejecución: Proyecto_final_AnalíticaDeDatos.R, Proyecto_final_AnalíticaDeDatos.py y
+Proyecto_final_AnalíticaDeDatos.R otra vez (ver README.md).
